@@ -22,6 +22,10 @@
 /** The name of the database for WordPress */
 define('DB_NAME', 'valani_packers');
 
+
+define('DB_NAME_1', 'valani_packers');
+define('DB_NAME_2', 'valani_packers');
+
 /** MySQL database username */
 define('DB_USER', 'root');
 
