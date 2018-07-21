@@ -16,6 +16,7 @@
  * @package WordPress
  */
 
+ // adding comment to check the merge
 ignore_user_abort(true);
 
 if ( !empty($_POST) || defined('DOING_AJAX') || defined('DOING_CRON') )

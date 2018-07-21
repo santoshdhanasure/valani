@@ -1,5 +1,8 @@
 <?php
 
+
+// this is signup file
+
 /** Sets up the WordPress Environment. */
 require( dirname(__FILE__) . '/wp-load.php' );
 
