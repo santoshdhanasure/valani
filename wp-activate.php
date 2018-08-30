@@ -5,6 +5,8 @@
  *
  * @package WordPress
  */
+// This is one more test
+// Adding this line again
 
 define( 'WP_INSTALLING', true );
 
