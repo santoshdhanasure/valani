@@ -20,3 +20,4 @@ require( dirname( __FILE__ ) . '/wp-blog-header.php' );
 
 // this is comming from 21july02 branch
 // Trying to merge the changes with master. Adding one more line here to check conflict
+// This line is added from master branch
