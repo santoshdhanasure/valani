@@ -7,6 +7,7 @@
  */
 // This is one more test
 // Adding this line again
+// one more line is adding
 
 define( 'WP_INSTALLING', true );
 
