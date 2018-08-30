@@ -163,3 +163,4 @@ get_header( 'wp-activate' );
 </script>
 <?php get_footer( 'wp-activate' );
 // One comment after footer section
+// Second comment added after footer section
