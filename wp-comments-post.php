@@ -7,7 +7,7 @@
 
 // Im trying to understand diff when dev rebase with master
 
-if ( 'POST' != $_SERVER['REQUEST_METHOD'] ) { // what this line is
+if ( 'POST' != $_SERVER['REQUEST_METHOD'] ) { // what this line is, coming from master
 	$protocol = $_SERVER['SERVER_PROTOCOL'];
 	if ( ! in_array( $protocol, array( 'HTTP/1.1', 'HTTP/2', 'HTTP/2.0' ) ) ) {
 		$protocol = 'HTTP/1.0';
