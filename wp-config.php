@@ -17,6 +17,8 @@
  *
  * @package WordPress
  */
+// This is wordpress database file
+// This is wordpress database file
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
@@ -91,3 +93,5 @@ if ( !defined('ABSPATH') )
 
 /** Sets up WordPress vars and included files. */
 require_once(ABSPATH . 'wp-settings.php');
+
+// This is footer section

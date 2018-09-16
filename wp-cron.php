@@ -1,5 +1,8 @@
 <?php
 /**
+
+ // from master to check with git merge
+ 
  * A pseudo-CRON daemon for scheduling WordPress tasks
  *
  * WP Cron is triggered when the site receives a visit. In the scenario
@@ -16,6 +19,8 @@
  * @package WordPress
  */
 
+ // Im trying to add these chages to master and wanted to merge it with feature branch
+ 
  // adding comment to check the merge
 ignore_user_abort(true);
 
