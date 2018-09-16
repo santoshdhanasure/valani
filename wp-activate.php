@@ -7,7 +7,7 @@
  */
 // This is one more test
 // Adding this line again
-// one more line is adding
+// this is just testing again to check if conflict occuress
 
 define( 'WP_INSTALLING', true );
 
@@ -162,3 +162,9 @@ get_header( 'wp-activate' );
 	key_input && key_input.focus();
 </script>
 <?php get_footer( 'wp-activate' );
+
+// comment after footer sections
+
+// one more footer comment
+
+// one more time
